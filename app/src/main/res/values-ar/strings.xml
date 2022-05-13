@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">سجل</string>
+    <string name="pass">كلمه المرور</string>
+    <string name="sign">تسجيل الدخول</string>
+    <string name="message_signup">ليس لديك حساب؟</string>
+    <string name="signup">انشاء حساب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="call">ا</string>
+    <string name="context_menu">قائمه</string>
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="call_fragment">فراجمنت</string>
+</resources>
